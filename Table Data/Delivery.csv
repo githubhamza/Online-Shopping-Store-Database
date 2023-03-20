@@ -1,0 +1,501 @@
+orderId,custId,deliveryDate,deliveryStatus
+201,45,2021/02/26,not delivered
+202,2,2020/08/22,not delivered
+203,34,2021/02/07,not delivered
+204,26,2021/06/17,delivered
+205,31,2020/12/20,delivered
+206,43,2021/05/18,delivered
+207,99,2020/06/27,delivered
+208,98,2020/10/24,not delivered
+209,94,2020/11/14,delivered
+210,34,2021/02/22,not delivered
+211,42,2020/10/19,not delivered
+212,86,2020/08/10,not delivered
+213,9,2021/05/03,not delivered
+214,77,2021/03/02,delivered
+215,93,2021/05/02,not delivered
+216,2,2020/09/08,not delivered
+217,66,2021/02/03,delivered
+218,78,2020/11/09,delivered
+219,69,2020/09/09,delivered
+220,20,2020/12/09,not delivered
+221,40,2020/08/12,not delivered
+222,43,2021/04/19,delivered
+223,33,2020/10/09,not delivered
+224,86,2021/06/18,delivered
+225,12,2020/12/02,delivered
+226,64,2020/12/18,not delivered
+227,79,2021/05/28,delivered
+228,26,2020/09/07,delivered
+229,30,2021/06/17,delivered
+230,59,2020/09/03,delivered
+231,79,2021/06/05,not delivered
+232,79,2021/04/23,not delivered
+233,42,2021/05/15,not delivered
+234,68,2021/05/20,delivered
+235,22,2020/06/25,not delivered
+236,79,2021/05/18,not delivered
+237,45,2021/01/20,not delivered
+238,70,2021/01/09,delivered
+239,67,2021/03/04,delivered
+240,63,2020/11/09,not delivered
+241,60,2021/06/05,not delivered
+242,91,2020/12/11,not delivered
+243,64,2021/05/20,not delivered
+244,40,2021/05/18,delivered
+245,84,2020/12/24,not delivered
+246,43,2020/09/08,delivered
+247,8,2020/12/16,delivered
+248,33,2021/04/18,delivered
+249,48,2020/10/19,not delivered
+250,72,2020/12/21,not delivered
+251,4,2020/09/24,delivered
+252,36,2020/12/14,not delivered
+253,46,2021/04/13,not delivered
+254,79,2020/09/08,not delivered
+255,90,2021/04/19,delivered
+256,65,2021/01/08,delivered
+257,24,2021/02/13,delivered
+258,46,2020/10/25,delivered
+259,45,2020/07/02,delivered
+260,62,2021/03/30,not delivered
+261,51,2020/12/08,not delivered
+262,35,2020/07/12,not delivered
+263,46,2021/05/10,delivered
+264,47,2021/04/23,delivered
+265,12,2021/01/07,not delivered
+266,85,2020/08/12,delivered
+267,52,2020/09/07,delivered
+268,33,2020/11/19,not delivered
+269,61,2020/07/30,not delivered
+270,9,2020/09/18,not delivered
+271,42,2021/01/29,delivered
+272,65,2020/11/16,not delivered
+273,19,2020/09/22,not delivered
+274,13,2020/08/18,not delivered
+275,85,2021/05/18,delivered
+276,13,2020/08/30,delivered
+277,34,2020/09/06,not delivered
+278,79,2020/07/07,delivered
+279,59,2021/05/13,not delivered
+280,98,2020/11/26,delivered
+281,81,2020/10/03,not delivered
+282,13,2020/09/08,not delivered
+283,98,2020/08/24,delivered
+284,45,2021/04/04,delivered
+285,77,2021/06/01,not delivered
+286,59,2021/06/05,not delivered
+287,77,2021/06/13,delivered
+288,26,2021/03/30,not delivered
+289,23,2021/04/05,delivered
+290,61,2021/04/07,not delivered
+291,57,2021/02/20,delivered
+292,12,2021/06/21,delivered
+293,60,2021/05/15,not delivered
+294,7,2020/07/13,delivered
+295,77,2020/08/17,delivered
+296,67,2021/04/08,not delivered
+297,13,2020/07/12,not delivered
+298,43,2021/05/10,not delivered
+299,93,2021/02/02,not delivered
+300,33,2021/01/11,not delivered
+301,75,2021/02/09,delivered
+302,46,2021/03/17,delivered
+303,96,2020/08/06,delivered
+304,22,2020/10/31,delivered
+305,93,2021/04/11,not delivered
+306,56,2020/08/03,not delivered
+307,77,2020/07/15,delivered
+308,38,2021/06/05,not delivered
+309,22,2020/08/15,not delivered
+310,69,2021/02/20,delivered
+311,78,2020/12/05,not delivered
+312,44,2021/01/26,delivered
+313,75,2020/10/08,not delivered
+314,87,2020/11/03,not delivered
+315,75,2020/10/15,delivered
+316,90,2020/08/31,delivered
+317,75,2020/10/23,not delivered
+318,44,2020/09/21,delivered
+319,95,2021/06/04,not delivered
+320,61,2021/05/20,delivered
+321,5,2020/07/01,delivered
+322,10,2020/10/02,delivered
+323,56,2021/02/10,not delivered
+324,35,2021/05/11,not delivered
+325,27,2020/11/05,delivered
+326,43,2020/11/10,delivered
+327,97,2021/06/01,not delivered
+328,85,2021/02/18,delivered
+329,63,2021/04/18,delivered
+330,33,2020/12/26,not delivered
+331,40,2020/12/27,delivered
+332,34,2020/11/04,not delivered
+333,36,2021/04/06,delivered
+334,15,2021/02/19,delivered
+335,43,2020/10/19,not delivered
+336,26,2020/10/05,delivered
+337,43,2020/12/22,not delivered
+338,68,2021/06/13,not delivered
+339,49,2020/08/17,delivered
+340,30,2021/05/01,delivered
+341,28,2021/03/29,not delivered
+342,33,2021/05/16,delivered
+343,66,2020/10/28,not delivered
+344,94,2020/10/27,delivered
+345,62,2021/02/15,not delivered
+346,96,2021/01/07,delivered
+347,90,2020/11/10,delivered
+348,10,2020/11/27,delivered
+349,42,2021/01/04,delivered
+350,72,2021/01/05,not delivered
+351,97,2020/11/20,delivered
+352,35,2020/11/30,delivered
+353,18,2020/09/10,delivered
+354,92,2020/10/08,not delivered
+355,99,2021/01/01,not delivered
+356,62,2020/11/28,delivered
+357,22,2020/10/01,not delivered
+358,75,2020/09/18,not delivered
+359,52,2020/07/15,delivered
+360,9,2020/11/17,delivered
+361,38,2020/11/13,not delivered
+362,5,2021/03/28,delivered
+363,80,2020/12/08,not delivered
+364,32,2020/10/01,not delivered
+365,25,2021/04/09,delivered
+366,3,2021/02/17,delivered
+367,10,2020/08/04,not delivered
+368,89,2020/10/29,delivered
+369,85,2020/07/05,not delivered
+370,14,2021/06/13,delivered
+371,34,2021/01/20,delivered
+372,21,2020/12/10,delivered
+373,97,2021/05/09,not delivered
+374,93,2021/05/25,delivered
+375,99,2021/04/29,delivered
+376,47,2021/05/25,not delivered
+377,100,2020/11/07,not delivered
+378,38,2021/06/07,not delivered
+379,43,2020/11/10,delivered
+380,12,2020/12/28,delivered
+381,84,2020/06/27,not delivered
+382,40,2020/12/07,delivered
+383,10,2020/12/08,not delivered
+384,53,2021/03/21,not delivered
+385,87,2020/12/27,delivered
+386,5,2021/01/13,delivered
+387,4,2021/02/15,delivered
+388,91,2020/07/08,delivered
+389,98,2020/12/14,delivered
+390,97,2021/02/03,delivered
+391,54,2021/03/27,not delivered
+392,11,2020/10/14,delivered
+393,94,2021/01/07,delivered
+394,76,2020/08/07,not delivered
+395,58,2021/05/09,not delivered
+396,64,2020/09/28,not delivered
+397,75,2021/05/31,delivered
+398,45,2020/09/11,delivered
+399,41,2021/03/08,delivered
+400,6,2021/01/28,delivered
+401,38,2020/08/31,not delivered
+402,77,2020/11/17,delivered
+403,50,2021/03/09,delivered
+404,17,2020/10/10,delivered
+405,31,2020/10/25,delivered
+406,39,2020/09/24,not delivered
+407,40,2021/02/03,delivered
+408,58,2021/04/24,delivered
+409,77,2021/06/20,not delivered
+410,14,2020/09/19,not delivered
+411,39,2020/11/13,delivered
+412,44,2020/08/11,not delivered
+413,20,2021/01/24,not delivered
+414,3,2021/01/04,not delivered
+415,82,2021/06/03,not delivered
+416,67,2021/03/05,not delivered
+417,62,2020/11/05,not delivered
+418,71,2021/05/01,not delivered
+419,69,2020/12/29,delivered
+420,35,2021/03/03,not delivered
+421,58,2021/04/21,not delivered
+422,97,2021/05/18,delivered
+423,59,2020/08/27,delivered
+424,50,2020/09/30,delivered
+425,33,2021/02/24,not delivered
+426,35,2020/07/06,delivered
+427,43,2021/03/16,not delivered
+428,76,2021/04/13,delivered
+429,27,2020/12/19,not delivered
+430,91,2020/07/02,not delivered
+431,14,2021/04/19,not delivered
+432,100,2020/12/28,delivered
+433,14,2020/10/03,not delivered
+434,98,2020/09/05,delivered
+435,77,2020/12/26,delivered
+436,3,2021/04/27,delivered
+437,38,2020/09/15,delivered
+438,78,2021/05/03,not delivered
+439,20,2020/09/17,not delivered
+440,52,2020/09/12,not delivered
+441,1,2020/08/07,delivered
+442,92,2021/05/09,not delivered
+443,80,2021/01/11,delivered
+444,52,2021/05/01,not delivered
+445,5,2020/09/23,delivered
+446,40,2021/01/29,not delivered
+447,22,2020/12/03,not delivered
+448,85,2020/08/24,not delivered
+449,47,2020/12/15,not delivered
+450,75,2021/06/18,delivered
+451,82,2021/03/13,delivered
+452,12,2021/02/05,delivered
+453,89,2020/12/13,delivered
+454,81,2020/12/23,delivered
+455,22,2020/12/26,not delivered
+456,29,2020/10/17,delivered
+457,8,2021/02/25,delivered
+458,33,2021/02/03,delivered
+459,71,2021/03/31,delivered
+460,87,2021/04/08,not delivered
+461,7,2021/04/15,not delivered
+462,70,2020/11/26,delivered
+463,21,2021/02/09,delivered
+464,71,2020/08/12,delivered
+465,52,2020/12/04,not delivered
+466,18,2020/08/13,delivered
+467,13,2021/06/04,not delivered
+468,99,2020/11/26,delivered
+469,36,2021/05/22,not delivered
+470,48,2020/12/19,not delivered
+471,48,2021/05/19,delivered
+472,3,2020/06/27,not delivered
+473,47,2021/06/05,not delivered
+474,72,2021/04/20,delivered
+475,6,2021/05/27,delivered
+476,24,2021/04/11,delivered
+477,65,2021/02/01,delivered
+478,43,2021/05/14,delivered
+479,73,2020/09/08,not delivered
+480,56,2021/02/18,delivered
+481,46,2021/01/02,delivered
+482,95,2021/02/13,not delivered
+483,45,2020/10/31,delivered
+484,73,2020/08/03,delivered
+485,21,2021/06/20,not delivered
+486,37,2020/10/28,delivered
+487,89,2020/08/12,delivered
+488,9,2021/06/09,not delivered
+489,41,2020/07/22,not delivered
+490,79,2020/06/23,not delivered
+491,85,2020/11/05,not delivered
+492,21,2021/06/08,delivered
+493,65,2020/11/18,delivered
+494,57,2021/03/25,not delivered
+495,77,2021/05/31,delivered
+496,23,2021/03/21,delivered
+497,55,2021/06/19,not delivered
+498,72,2021/03/30,not delivered
+499,40,2020/10/03,delivered
+500,93,2021/01/18,delivered
+501,2,2021/02/19,not delivered
+502,76,2021/04/29,not delivered
+503,83,2020/08/20,not delivered
+504,98,2021/04/17,delivered
+505,1,2020/11/06,delivered
+506,9,2021/01/30,not delivered
+507,52,2020/10/13,delivered
+508,48,2020/09/17,not delivered
+509,91,2020/12/07,delivered
+510,59,2021/06/05,delivered
+511,3,2020/09/22,not delivered
+512,11,2021/06/18,not delivered
+513,43,2021/05/25,delivered
+514,22,2020/07/11,not delivered
+515,49,2020/10/07,not delivered
+516,7,2020/12/18,not delivered
+517,26,2021/01/15,not delivered
+518,2,2020/09/22,delivered
+519,45,2021/06/02,delivered
+520,64,2021/02/01,delivered
+521,24,2020/12/31,delivered
+522,60,2021/04/04,delivered
+523,66,2020/09/05,delivered
+524,99,2020/09/30,delivered
+525,77,2020/11/28,not delivered
+526,52,2020/09/05,not delivered
+527,13,2020/08/06,not delivered
+528,16,2021/04/29,not delivered
+529,94,2021/01/28,delivered
+530,44,2020/09/20,not delivered
+531,30,2021/04/15,delivered
+532,95,2021/05/31,delivered
+533,65,2020/07/23,delivered
+534,66,2021/03/30,delivered
+535,34,2021/05/01,not delivered
+536,89,2021/06/11,not delivered
+537,43,2021/01/13,delivered
+538,57,2021/06/16,not delivered
+539,86,2020/09/29,delivered
+540,15,2021/04/11,delivered
+541,98,2021/05/16,delivered
+542,25,2021/04/24,delivered
+543,83,2021/02/28,not delivered
+544,6,2020/12/11,not delivered
+545,58,2021/03/15,delivered
+546,72,2020/09/04,not delivered
+547,11,2020/07/02,not delivered
+548,69,2020/10/20,delivered
+549,36,2021/04/16,not delivered
+550,83,2020/11/28,delivered
+551,28,2021/03/15,delivered
+552,86,2020/10/15,not delivered
+553,61,2021/02/07,delivered
+554,55,2021/06/03,delivered
+555,53,2020/12/27,not delivered
+556,86,2020/06/23,not delivered
+557,84,2020/12/01,not delivered
+558,31,2021/02/10,not delivered
+559,23,2020/09/25,not delivered
+560,12,2020/11/20,not delivered
+561,16,2021/05/12,not delivered
+562,60,2021/04/02,not delivered
+563,87,2021/04/03,delivered
+564,91,2020/10/10,delivered
+565,11,2021/02/19,not delivered
+566,93,2021/03/15,delivered
+567,30,2021/03/15,delivered
+568,44,2020/10/15,not delivered
+569,86,2021/02/26,delivered
+570,28,2021/05/01,delivered
+571,32,2021/05/12,not delivered
+572,41,2021/03/27,delivered
+573,8,2020/10/18,delivered
+574,90,2021/02/10,delivered
+575,7,2020/11/21,delivered
+576,33,2021/03/06,not delivered
+577,85,2021/05/06,not delivered
+578,22,2021/03/07,delivered
+579,16,2021/05/31,delivered
+580,35,2020/07/10,not delivered
+581,98,2020/07/20,delivered
+582,90,2021/03/16,not delivered
+583,73,2020/12/15,delivered
+584,92,2020/09/17,not delivered
+585,2,2020/09/12,delivered
+586,99,2021/06/13,not delivered
+587,56,2020/11/24,not delivered
+588,33,2021/01/20,not delivered
+589,74,2021/05/28,not delivered
+590,23,2020/09/02,delivered
+591,10,2021/06/09,delivered
+592,42,2020/10/09,delivered
+593,69,2021/05/28,not delivered
+594,92,2021/03/05,delivered
+595,95,2021/04/14,delivered
+596,25,2020/12/11,delivered
+597,80,2021/02/07,delivered
+598,15,2020/12/25,not delivered
+599,99,2021/01/18,not delivered
+600,42,2020/06/24,delivered
+601,22,2020/09/25,delivered
+602,66,2021/03/21,delivered
+603,17,2020/07/04,not delivered
+604,73,2021/02/28,delivered
+605,87,2021/06/01,delivered
+606,42,2021/05/08,delivered
+607,20,2020/07/30,delivered
+608,27,2020/07/07,delivered
+609,65,2021/03/08,not delivered
+610,15,2021/01/09,delivered
+611,43,2021/03/05,delivered
+612,59,2020/10/24,delivered
+613,21,2020/10/22,delivered
+614,68,2021/04/28,not delivered
+615,35,2021/05/27,not delivered
+616,93,2021/03/14,not delivered
+617,78,2020/09/27,delivered
+618,100,2021/06/21,delivered
+619,20,2021/03/16,not delivered
+620,24,2021/05/18,not delivered
+621,56,2020/08/16,not delivered
+622,97,2020/10/24,not delivered
+623,33,2020/09/17,not delivered
+624,75,2020/07/13,not delivered
+625,20,2020/11/03,not delivered
+626,28,2021/01/16,not delivered
+627,65,2021/04/19,delivered
+628,69,2020/11/03,not delivered
+629,11,2021/03/18,not delivered
+630,91,2021/04/15,not delivered
+631,90,2020/11/14,not delivered
+632,63,2020/08/20,delivered
+633,34,2021/04/25,delivered
+634,13,2020/11/29,not delivered
+635,45,2021/02/04,delivered
+636,6,2021/01/30,not delivered
+637,61,2020/07/27,delivered
+638,28,2020/07/24,delivered
+639,82,2021/02/02,not delivered
+640,42,2021/04/23,not delivered
+641,56,2020/06/26,not delivered
+642,41,2021/02/06,not delivered
+643,97,2021/05/23,not delivered
+644,2,2021/01/24,delivered
+645,98,2021/04/17,delivered
+646,88,2020/10/29,delivered
+647,72,2020/07/23,not delivered
+648,92,2020/10/02,delivered
+649,54,2020/11/15,not delivered
+650,60,2020/12/29,not delivered
+651,100,2021/05/09,not delivered
+652,7,2020/10/16,delivered
+653,90,2021/04/24,delivered
+654,23,2021/05/24,not delivered
+655,86,2020/12/19,delivered
+656,85,2021/04/09,delivered
+657,70,2020/09/27,not delivered
+658,36,2020/10/27,not delivered
+659,44,2020/09/09,not delivered
+660,14,2021/03/18,delivered
+661,77,2021/03/11,delivered
+662,37,2020/06/28,delivered
+663,80,2021/05/10,not delivered
+664,26,2020/07/06,delivered
+665,54,2020/12/22,delivered
+666,15,2020/07/06,not delivered
+667,23,2020/10/09,delivered
+668,86,2020/08/25,delivered
+669,52,2020/11/28,not delivered
+670,28,2021/04/21,not delivered
+671,16,2021/03/07,not delivered
+672,89,2021/04/24,not delivered
+673,26,2020/10/21,not delivered
+674,75,2021/01/03,not delivered
+675,94,2020/10/12,delivered
+676,20,2021/06/16,not delivered
+677,15,2021/03/15,delivered
+678,95,2021/04/15,not delivered
+679,87,2020/11/14,not delivered
+680,64,2021/04/16,not delivered
+681,48,2020/07/04,delivered
+682,52,2020/07/14,not delivered
+683,62,2021/04/05,delivered
+684,94,2020/08/21,not delivered
+685,61,2020/10/15,delivered
+686,80,2021/01/24,delivered
+687,93,2020/09/04,not delivered
+688,79,2021/04/16,not delivered
+689,33,2020/11/09,delivered
+690,79,2020/12/04,not delivered
+691,50,2020/07/07,delivered
+692,70,2020/10/24,not delivered
+693,15,2020/11/09,delivered
+694,99,2020/11/09,delivered
+695,13,2021/04/19,delivered
+696,27,2021/01/26,delivered
+697,4,2020/11/07,not delivered
+698,72,2021/03/20,not delivered
+699,40,2021/03/31,delivered
+700,55,2021/06/14,not delivered
